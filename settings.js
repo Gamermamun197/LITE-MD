@@ -12,7 +12,7 @@ module.exports = {
     PREFIX: process.env.PREFIX || ".",
     // add your prefix for bot
 
-    BOT_NAME: process.env.BOT_NAME || "ʟɪᴛᴇ-xᴅ",
+    BOT_NAME: process.env.BOT_NAME || "LITE-MD",
     // add bot name here for menu
 
     MODE: process.env.MODE || "public",
@@ -33,7 +33,7 @@ module.exports = {
     AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
     // make true if you want auto reply on status 
 
-    AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY LITE XD 😆*",
+    AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY LITE MD 😆*",
     // set the auto reply message on status reply  
 
     WELCOME: process.env.WELCOME || "true",
