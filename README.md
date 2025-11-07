@@ -1,6 +1,6 @@
-# Lite Xd – Bot Base Script
+# Lite Md
 
-**Repository:** [https://github.com/XdKing2/LITE-XD](https://github.com/XdKing2/LITE-XD)
+**Repository:** [https://github.com/Gamermamun197/LITE-MD](https://github.com/Gamermamun197/LITE-MD)
 
 ---
 
@@ -13,11 +13,6 @@ The **session ID link** below is provided as a reference and example to use with
 
 **Session Link Reference:**  
 [https://lite-pair.onrender.com/pair](https://lite-pair.onrender.com/pair)
-
----
-
-SESSION_ID REPO BASE
-https://github.com/XdKing2/malvin-pair 
 
 ## 🚀 Getting Started
 
